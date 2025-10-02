@@ -1,0 +1,32 @@
+ 1. ID Siswa             : 123456
+ 2. Nama Siswa           : Ibraahiim
+ 3. Jenis Kursus         : Beginner
+ 4. Nilai Quiz           : 100
+ 5. Nilai Tugas          : 100
+ 6. Nilai Ujian          : 100
+ 7. Final Grade          : 100.00 'A'
+
+ 1. ID Siswa             : 123456
+ 2. Nama Siswa           : Ibraahiim Wahana
+ 3. Jenis Kursus         : Intermediate
+ 4. Nilai Quiz           : 90
+ 5. Nilai Tugas          : 70
+ 6. Nilai Ujian          : 75
+ 7. Final Grade          : 78.00 'B'
+
+ 1. ID Siswa             : 12345
+ 2. Nama Siswa           : Ibraahiim Wahana
+ 3. Jenis Kursus         : Advanced
+ 4. Nilai Quiz           : 90
+ 5. Nilai Tugas          : 80
+ 6. Nilai Ujian          : 75
+ 7. Final Grade          : 81.00 'B'
+
+ 1. ID Siswa             : 1234
+ 2. Nama Siswa           : Rafli Setiawan
+ 3. Jenis Kursus         : Beginner
+ 4. Nilai Quiz           : 90
+ 5. Nilai Tugas          : 80
+ 6. Nilai Ujian          : 100
+ 7. Final Grade          : 91.00 'A'
+
