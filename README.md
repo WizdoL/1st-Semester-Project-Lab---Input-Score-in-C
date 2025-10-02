@@ -3,6 +3,14 @@
 This project is a **Final Project** for the 1st semester, developed in **C language**.  
 It is a simple application to input, store, and display student data and their scores, created together with my classmates :D.
 
+
+## 📸 Preview Screenshots  
+
+Here are some previews of the program in action:  
+
+![Preview 1](screenshot/preview1.png)  
+![Preview 2](screenshot/preview2.png)  
+
 ---
 
 ## 📂 Project Structure
@@ -32,10 +40,4 @@ gcc Final_Project.c -o Final_Project.exe
 
 ---
 
-## 📸 Preview Screenshots  
-
-Here are some previews of the program in action:  
-
-! [Preview 1](screenshot/preview1.png)
-! [Preview 2](screenshot/preview2.png)
 
