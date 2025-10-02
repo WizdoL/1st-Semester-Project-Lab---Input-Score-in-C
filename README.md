@@ -36,5 +36,6 @@ gcc Final_Project.c -o Final_Project.exe
 
 Here are some previews of the program in action:  
 
-![Preview 1](screenshot/preview1.png)  
-![Preview 2](screenshot/preview2.png)  
+! [Preview 1](screenshot/preview1.png)
+! [Preview 2](screenshot/preview2.png)
+
